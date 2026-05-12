@@ -1,4 +1,4 @@
-# 
+# custom JetBrains Rider for PC | JetBrains Rider for Windows Tool | debugger + terminal-integration is the best JetBrains Rider for PC | JetBrains Rider for Windows tool, featuring
 
 
 
